@@ -30,6 +30,7 @@ Estimating occupational mobility with covariates. *Economics Letters*
 **133**, 2015.
 <span>[(Link)](http://dx.doi.org/10.1016/j.econlet.2015.05.017)</span>
 <span>[(Preprint)](downloads/occmobcov.pdf)</span>
+ 
 #### Working papers 
 On the measurement of long-run income inequality: Empirical evidence
 from Norway, 1875-2013 (with Aaberge and Atkinson) <span>[(SSB
@@ -49,6 +50,7 @@ Atkinson) *Revision from September 2016 available on request*
 Regional income in Norway, 1900-2010 (Prepared for the book *Europe’s
 Regions*, edited by Roses and Wolf, expected 2016) *Available on
 request*
+ 
 #### Non-refereed work (selection) 
 Fordelingen av inntekter i Norge fra 1875 til i dag (with Rolf Aaberge).
 *Plan* **3**, 2014
