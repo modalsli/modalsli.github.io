@@ -17,8 +17,9 @@ forthcoming. doi: 10.1111/roiw.12230
 <span>[(Preprint)](downloads/globalgini.pdf)</span>
 
 Skjev kjønnsbalanse i toppen av inntektsfordelingen \[Gender bias at the
-top of the income distribution\]. *Søkelys på arbeidslivet*, forthcoming
-*Available on request*
+top of the income distribution\]. *Søkelys på arbeidslivet* **32**(4),
+2016.
+<span>[(Link)](http://dx.doi.org/10.18261/issn.1504-7989-2016-04-01)</span>
 
 Inequality in the very long run: inferring inequality from data on
 social groups. *Journal of Economic Inequality* **13**(2), 2015. doi:
@@ -38,7 +39,8 @@ Discussion Paper 847,
 2016)](http://www.ssb.no/279992/on-the-measurement-of-long-run-income-inequality-empirical-evidence-from-norway-1875-2013)</span>
 
 Multigenerational persistence: Evidence from 146 years of administrative
-data *In progress, available on request*
+data <span>[(SSB Discussion Paper 850,
+2016)](http://www.ssb.no/en/forskning/discussion-papers/multigenerational-persistence-evidence-from-146-years-of-administrative-data)</span>
 
 The regional dispersion of income inequality in nineteenth-century
 Norway <span>[(SSB Discussion Paper 842,
