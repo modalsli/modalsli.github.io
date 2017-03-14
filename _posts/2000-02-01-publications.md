@@ -7,7 +7,8 @@ fa-icon: align-justify
 
 #### Journal articles
 Intergenerational occupational mobility in Norway, 1865-2011.
-*Scandinavian Journal of Economics*, forthcoming. doi:10.1111/sjoe.12196
+*Scandinavian Journal of Economics*, **119**(1), 2017.
+doi:10.1111/sjoe.12196
 <span>[(Link)](http://dx.doi.org/10.1111/sjoe.12196)</span>
 <span>[(Preprint)](downloads/mobility.pdf)</span>
 
@@ -50,10 +51,17 @@ The ins and outs of top income mobility (with Rolf Aaberge and Tony
 Atkinson) *Revision from September 2016 available on request*
 
 Regional income in Norway, 1900-2010 (Prepared for the book *Europe’s
-Regions*, edited by Roses and Wolf, expected 2016) *Available on
-request*
+Regions*, edited by Roses and Wolf, expected 2017) <span>[(Latest
+revision, September 2016)](downloads/regionalgdp)</span>
  
 #### Non-refereed work (selection) 
+Småbruk, vekst og fordeling (with Rolf Aaberge and Espen Søbye). *Nytt
+Norsk Tidsskrift* **1**, 2017.
+
+Stor økning i yrkesmobiliteten fra 1800-tallet til i dag.
+*Samfunnsspeilet* **1**, 2017.
+<span>[(Link)](http://www.ssb.no/arbeid-og-lonn/artikler-og-publikasjoner/stor-okning-i-yrkesmobiliteten-fra-1800-tallet-til-i-dag)</span>
+
 Fordelingen av inntekter i Norge fra 1875 til i dag (with Rolf Aaberge).
 *Plan* **3**, 2014
 <span>[(Link)](http://www.idunn.no/file/pdf/66715613/fordelingen_av_intekter_i_norge_fra_1875_til_i_dag.pdf)</span>
