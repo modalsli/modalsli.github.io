@@ -52,7 +52,7 @@ Atkinson) *Revision from September 2016 available on request*
 
 Regional income in Norway, 1900-2010 (Prepared for the book *Europe’s
 Regions*, edited by Roses and Wolf, expected 2017) <span>[(Latest
-revision, September 2016)](downloads/regionalgdp)</span>
+revision, September 2016)](downloads/regionalgdp.pdf)</span>
  
 #### Non-refereed work (selection) 
 Småbruk, vekst og fordeling (with Rolf Aaberge and Espen Søbye). *Nytt
