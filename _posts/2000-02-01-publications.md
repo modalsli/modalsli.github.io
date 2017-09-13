@@ -6,36 +6,37 @@ fa-icon: align-justify
 ---
 
 #### Journal articles
-Intergenerational occupational mobility in Norway, 1865-2011.
-*Scandinavian Journal of Economics*, **119**(1), 2017.
-<span>[(Link)](http://dx.doi.org/10.1111/sjoe.12196)</span>
-<span>[(Preprint)](downloads/mobility.pdf)</span>
-
-Decomposing global inequality. *Review of Income and Wealth* **63**(3),
-2017. <span>[(Link)](http://dx.doi.org/10.1111/roiw.12230)</span>
-<span>[(Preprint)](downloads/globalgini.pdf)</span>
-
-Skjev kjønnsbalanse i toppen av inntektsfordelingen \[Gender bias at the
-top of the income distribution\]. *Søkelys på arbeidslivet* **32**(4),
-2016.
-<span>[(Link)](http://dx.doi.org/10.18261/issn.1504-7989-2016-04-01)</span>
-
-Inequality in the very long run: inferring inequality from data on
-social groups. *Journal of Economic Inequality* **13**(2), 2015.
-<span>[(Link)](http://dx.doi.org/10.1007/s10888-014-9279-6)</span>
-<span>[(Preprint)](downloads/inferring.pdf)</span>
-
-Estimating occupational mobility with covariates. *Economics Letters*
-**133**, 2015.
-<span>[(Link)](http://dx.doi.org/10.1016/j.econlet.2015.05.017)</span>
-<span>[(Preprint)](downloads/occmobcov.pdf)</span>
- 
-#### Working papers 
 The regional dispersion of income inequality in nineteenth-century
 Norway. *Explorations in Economic History*, forthcoming.
 <span>[(Link)](https://doi.org/10.1016/j.eeh.2017.09.001)</span>
 <span>[(Preprint)](downloads/regionaldispersion.pdf)</span>
 
+Intergenerational occupational mobility in Norway, 1865-2011.
+*Scandinavian Journal of Economics* **119**(1), 2017.
+<span>[(Link)](http://dx.doi.org/10.1111/sjoe.12196)</span>
+<span>[(Preprint)](downloads/mobility.pdf)</span>
+
+Decomposing global inequality. *Review of Income and Wealth*
+**63**(3), 2017.
+<span>[(Link)](http://dx.doi.org/10.1111/roiw.12230)</span>
+<span>[(Preprint)](downloads/globalgini.pdf)</span>
+
+Skjev kjønnsbalanse i toppen av inntektsfordelingen \[Gender bias at the
+top of the income distribution\]. *Søkelys på arbeidslivet*
+**32**(4), 2016.
+<span>[(Link)](http://dx.doi.org/10.18261/issn.1504-7989-2016-04-01)</span>
+
+Inequality in the very long run: inferring inequality from data on
+social groups. *Journal of Economic Inequality* **13**(2), 2015.
+<span>[(Link)](http://dx.doi.org/10.1007/s10888-014-9279-6)</span>
+<span>[(Preprint)](downloads/inferring.pdf)</span>
+
+Estimating occupational mobility with covariates. *Economics Letters*
+**133**, 2015.
+<span>[(Link)](http://dx.doi.org/10.1016/j.econlet.2015.05.017)</span>
+<span>[(Preprint)](downloads/occmobcov.pdf)</span>
+ 
+#### Working papers 
 On the measurement of long-run income inequality: Empirical evidence
 from Norway, 1875-2013 (with Aaberge and Atkinson) <span>[(SSB
 Discussion Paper 847,
