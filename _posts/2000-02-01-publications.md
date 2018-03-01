@@ -7,7 +7,7 @@ fa-icon: align-justify
 
 #### Journal articles
 The regional dispersion of income inequality in nineteenth-century
-Norway. *Explorations in Economic History*, forthcoming.
+Norway. *Explorations in Economic History* **67**, 2018.
 <span>[(Link)](https://doi.org/10.1016/j.eeh.2017.09.001)</span>
 <span>[(Preprint)](downloads/regionaldispersion.pdf)</span>
 
@@ -49,8 +49,16 @@ data <span>[(SSB Discussion Paper 850,
 The ins and outs of top income mobility (with Rolf Aaberge and Tony
 Atkinson) *Revision from September 2016 available on request*
 
+Call the midwife: Health personnel and mortality in Norway 1887-1921
+(with Andreas Kotsadam and Jo Thori Lind) <span>[(CESifo Working Paper
+6831,
+2017)](https://www.cesifo-group.de/ifoHome/publications/docbase/DocBase_Content/WP/WP-CESifo_Working_Papers/wp-cesifo-2017/wp-cesifo-2017-12/12012017006831.html)</span>
+
+Who benefits from industrialization? The local effects of hydropower
+technology adoption in Norway (with Stefan Leknes) *Available soon*
+
 Regional income in Norway, 1900-2010 (Prepared for the book *Europe’s
-Regions*, edited by Roses and Wolf, expected 2017) <span>[(Latest
+Regions*, edited by Roses and Wolf, expected 2018) <span>[(Latest
 revision, September 2016)](downloads/regionalgdp.pdf)</span>
  
 #### Non-refereed work (selection) 
