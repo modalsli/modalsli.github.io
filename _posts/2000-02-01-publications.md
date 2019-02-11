@@ -37,6 +37,13 @@ Estimating occupational mobility with covariates. *Economics Letters*
 <span>[(Preprint)](downloads/occmobcov.pdf)</span>
  
 #### Working papers 
+Spillover bias in multigenerational income regressions (with Kelly
+Vosters) <span>[(SSB Discussion Paper 897,
+2019)](https://www.ssb.no/en/forskning/discussion-papers/spillover-bias-in-multigenerational-income-regressions)</span>
+
+Who benefited from industrialization? The local effects of hydropower
+technology adoption in Norway (with Stefan Leknes) *Available soon*
+
 On the measurement of long-run income inequality: Empirical evidence
 from Norway, 1875-2013 (with Aaberge and Atkinson) <span>[(SSB
 Discussion Paper 847,
@@ -54,12 +61,10 @@ Call the midwife: Health personnel and mortality in Norway 1887-1921
 6831,
 2017)](https://www.cesifo-group.de/ifoHome/publications/docbase/DocBase_Content/WP/WP-CESifo_Working_Papers/wp-cesifo-2017/wp-cesifo-2017-12/12012017006831.html)</span>
 
-Who benefits from industrialization? The local effects of hydropower
-technology adoption in Norway (with Stefan Leknes) *Available soon*
-
-Regional income in Norway, 1900-2010 (Prepared for the book *Europe’s
-Regions*, edited by Roses and Wolf, expected 2018) <span>[(Latest
-revision, September 2016)](downloads/regionalgdp.pdf)</span>
+Regional income in Norway, 1900-2010 (Chapter in *The Economic
+Development of Europe’s Regions*, edited by Roses and Wolf, 2018)
+<span>[(Latest revision, September
+2016)](downloads/regionalgdp.pdf)</span>
  
 #### Non-refereed work (selection) 
 Småbruk, vekst og fordeling (with Rolf Aaberge and Espen Søbye). *Nytt
